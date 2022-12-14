@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Group4_comp304_sec004_lab5</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps_italian">MapsActivityItalian</string>
+    <string name="title_activity_maps_indian">MapsActivityIndian</string>
+    <string name="title_activity_maps_greek">MapsActivityGreek</string>
+    <string name="title_activity_maps_chinese">MapsActivityChinese</string>
+</resources>
